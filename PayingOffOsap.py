@@ -1,6 +1,6 @@
 '''
 
-The following resources have been used in construction of this program
+The following resources have been used in assistance of constructing of this program
 -https://pythonprogramming.net/
 -https://robotwealth.com/demystifying-the-hurst-exponent-part-2/
 '''
